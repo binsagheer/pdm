@@ -1,0 +1,406 @@
+@media (max-width: 992px) {
+    .D-nav {
+      display: none !important;
+    }
+    .M-nav {
+      display: block !important;
+    }
+  }
+  /* Media queries */
+  @media (min-width: 1200px) {
+    .container {
+      max-width: 1200px !important;
+      
+    }
+   
+    #counter-num {
+      padding-top: 120px !important;
+      row-gap: 40px !important;
+      min-height: 800px !important;
+      margin-bottom: 70px;
+    }
+    /* .About-img {
+      background: url("imge/Ellipse\ 286.png") no-repeat center center;
+      background-size: cover; 
+      background-size: 400px !important;
+    } */
+    /* .About-img img {
+      width: 430px !important;
+      position: relative !important;
+     
+    } */
+     
+    .About-sec {padding-bottom: 5px !important;}
+   .About-img img {
+        width: 100% !important;
+        position: relative !important;
+        
+        top: -110px;
+    }
+    .counter-flex {margin-top: 80px !important;}
+  /* #counter-num{padding-top: 130px !important;padding-bottom: 130px !important;} */
+  }
+  @media (min-width: 992px) and (max-width: 1199.98px) {
+    .container {
+      max-width: 960px !important;
+    }
+    .hero-content h2 {
+      line-height: normal !important;
+      font-size: 36px !important;
+    }
+    .hero-section .container {
+      padding-top: 50px !important;
+    }
+    .steps-icon h3:after {
+      width: 180px !important;
+    }
+  
+    
+    .About-img {
+      background: url("imge/Ellipse\ 286.png") no-repeat center center;
+      background-size: cover; /* Ensures the image covers the entire section */
+      background-size: 100% !important;padding-bottom: 30px !important;
+    }
+    .About-img img {
+      width: 370px !important;
+        position: relative !important;
+        left: 28px;
+        top: -110px;
+    }
+    
+    /* #counter-num {
+      padding-top: 20px !important;
+      row-gap: 40px !important;
+    }
+   
+    .About-sec {padding-bottom: 150px !important;}
+    #counter-num{padding-top: 130px !important;padding-bottom: 130px !important;}
+    .hero-section{height: 720px!important;} */
+    
+    .About-img img {
+      width: 100% !important;
+      position: relative !important;
+      left: 4px !important;
+      top: -73px  !important;
+  }
+  #counter-num {
+    padding-top: 90px !important;
+    padding-bottom: 130px !important;
+}    h1 {
+        font-size: 39px;
+        line-height: 3.6rem;
+        font-weight: bolder;
+    }
+
+  }
+  
+  @media (min-width: 768px) and (max-width: 991.98px) {
+    .container {
+      max-width: 720px !important;
+    }
+    .hero-right-col img {
+      max-width: 100% !important;
+    }
+    .hero-content h2 {
+      line-height: normal !important;
+      font-size: 36px !important;
+    }
+    .hero-section .container {
+      padding-top: 50px !important;
+    }
+    .intro-work p {
+      width: 100% !important;
+      padding: 10px !important ;
+    }
+  
+    .steps-icon h3:after {
+      display: none !important;
+    }
+    .flex-1,
+    .flex-2 {
+      column-gap: 20px;
+    }
+    .active-user {
+      bottom: 0px !important;
+      left: 0px !important;
+    }
+    .flex-2 .awards {
+      bottom: 0px !important;
+      left: 0px !important;
+    }
+  
+    /* .About-img {
+      background: url("imge/Ellipse\ 286.png") no-repeat center center;
+      background-size: cover;
+      background-size: 300px !important;
+    }
+    .About-img img {
+      width: 300px !important;
+      position: relative !important;
+      left: 12px !important;
+      top: -32px !important;
+  } */
+    #counter-num {
+      padding-top: 20px !important;
+      row-gap: 40px !important;
+    }
+    .text-body h1 {
+      font-size: 35px !important;
+    }
+    .monitezation-img img {
+      width: 100% !important;
+      padding-top: 50px !important;
+    }
+    .steps-body p {
+      width: 500px !important;
+    }
+     
+    /* .About-sec{padding-bottom: 30px !important;} */
+    /* #counter-num{padding-bottom: 130px !important;} */
+    .hero-left-col, .hero-right-col{padding: 0ox !important;}
+    .hero-text {
+      padding-inline-start:0px !important;
+  }
+  .hero-section{min-height: 720px!important;}
+  
+  .about-intro-heading h5 {line-height: normal !important;font-size: 38px !important;}
+
+
+  
+  #counter-num {
+    /* padding-top: 120px !important; */
+    row-gap: 40px !important;
+    min-height: 720px !important;
+    
+  }
+
+   
+  .About-sec {padding-bottom: 5px !important;}
+ .About-img img {
+      width: 100% !important;
+      position: relative !important;
+      left:-1px;
+      top: 75px !important;
+  }
+  .counter-flex{margin-top: 120px !important;}
+  h1 {
+    font-size: 34px;
+    line-height: 2.8rem;
+    font-weight: bolder;    
+}
+    .hero-text {
+        padding-inline-start: 0px !important;
+        margin-top: 70px;
+    }
+  }
+  @media (min-width: 576px) and (max-width: 767.98px) {
+    .container {
+      max-width: 540px !important;
+    }
+    /* .row {
+          flex-direction: column-reverse;
+      } */
+    .hero-section .container {
+      padding-top: 150px !important;
+    }
+    .hero-content h2 {
+      line-height: normal !important;
+      font-size: 28px !important;
+    }.hero-text {
+      padding-inline-start: 90px !important;
+      
+  }
+  .hero-section {padding-bottom: 60px !important;}
+    
+    .intro-work p {
+      width: 100% !important;
+      padding: 10px !important ;
+    }
+    .steps-icon h3:after {
+      display: none !important;
+    }
+    .flex-1,
+    .flex-2 {
+      column-gap: 20px;
+    }
+    .active-user {
+      bottom: 0px !important;
+      left: 0px !important;
+    }
+    .flex-2 .awards {
+      bottom: 0px !important;
+      left: 0px !important;
+    }
+    .About-img {
+      margin-top: 90px !important;
+    }
+    .About-img img {
+      left: 40px;
+      top: -120px;
+      width: 80%;
+  }
+    .About-img {
+      background-size: contain !important;
+    }
+    #counter-num {
+      padding-top: 20px !important;
+      row-gap: 40px !important;
+    }
+    .text-body h1 {
+      font-size: 40px !important;
+    }
+    .About-sec{padding-bottom: 130px !important;}
+  h1 {
+    font-size: 36px;
+    line-height: 3.6rem;
+    font-weight: bolder;
+}
+.hero-content{margin-top: 70px}
+
+
+  }
+  
+  @media (max-width: 575.98px) {
+    .container {
+      max-width: 100% !important;
+    }
+    .hero-section .container {
+      padding-top: 150px !important;
+    }
+    /* .row {
+          flex-direction: column-reverse;
+      } */
+    .hero-content h2 {
+      line-height: normal !important;
+      font-size: 26px !important;
+    }
+    .hero-left-col > div > p:nth-child(3) {
+      line-height: normal !important;
+      font-size: 16px !important;
+    }
+
+
+
+    .hero-text {
+      padding-inline-start: 20px !important;
+      padding-top: 70px !important;
+  }
+  .hero-section {padding-bottom: 60px !important;}
+    .intro-work p {
+      width: 100% !important;
+      padding: 10px;
+    }
+    .steps-icon h3:after {
+      display: none !important;
+    }
+    .intro-work {
+      padding: 20px !important;
+    }
+    .intro-work p {
+      font-size: 16px !important;
+      line-height: 1.4rem !important;
+    }
+    .intro-work h2 {
+      font-size: 36px !important;
+    }
+    .flex-1,
+    .flex-2 {
+      column-gap: 20px;
+    }
+    .active-user {
+      bottom: 0px !important;
+      left: 0px !important;
+    }
+    .flex-2 .awards {
+      bottom: 0px !important;
+      left: 0px !important;
+    }
+    .About-img {
+      margin-top: 100px !important;
+      margin-bottom: 70px !important;
+    }
+    .About-img img {
+      /* left: 75px !important; */
+      top: -120px !important;
+      width: 100% !important;
+    }
+    .About-img {background-size: 85% !important;}
+   
+    .about-intro-heading h5 {
+      font-size: 22px !important;
+      line-height: normal !important;
+    }
+    #counter-num {
+     
+      row-gap: 40px !important;
+    }
+    .text-body {
+      padding: 20px 10px !important;
+    }
+    .text-body h1 {
+      font-size: 30px !important;
+    }
+    .text-body p {
+      font-size: 16px !important;
+      line-height: 28px !important;
+    }
+    .doc-sec h1 {
+      font-size: 30px !important;
+      line-height: normal !important;
+    }
+    .doc-sec p {
+      font-size: 16px !important;
+      line-height: 28px !important;
+      width: 100% !important;
+    }
+    .footer-head {
+      align-items: center !important;
+    }
+    .footer-text p {
+      text-align: center !important;
+    }
+    .footer-nav {
+      display: flex !important;
+      justify-content: center !important;
+      align-items: flex-start; !important;
+      column-gap: 30px !important;
+      padding-left: 30px;
+    }
+
+
+  }
+  @media (min-width: 320px) and (max-width: 423.98px) {
+    .About-img img {
+     
+      top: -100px !important;
+      width: 100% !important;
+    }
+    .doc-sec h1 {
+      font-size: 21px !important;
+      line-height: normal !important;
+    }
+    .doc-sec p {
+      font-size: 15px !important;
+      line-height: 28px !important;
+      width: 100% !important;
+    }
+    .footer-nav {
+      display: flex !important;
+      justify-content: center !important;
+      align-items: flex-start; !important;
+      /* column-gap: 30px !important; */
+      flex-direction: column !important;
+      row-gap: 20px !important;
+      padding-left: 30px;
+    }
+      h1 {
+    font-size: 28px;
+    line-height: 2.8rem;
+    font-weight: bolder;
+}
+    
+    
+  }
+
+    .nav-btn {padding-bottom:50px}
+  
